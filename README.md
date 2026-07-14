@@ -1,49 +1,117 @@
-# 💫 About Me
+<h1 align="center">Muhammad Sohaib Asif</h1>
 
-Frontend Developer passionate about building modern, responsive, and user-friendly web applications.
+<p align="center">
+Frontend Developer • BS Computer Science Student • Pakistan
+</p>
 
-🎓 BSCS Student
-⚛️ Currently learning React & modern frontend development
-💻 Skilled in HTML, CSS, JavaScript, and React
-🚀 Interested in UI/UX, web performance, and clean code practices
-🌱 Continuously improving my development and problem-solving skills
-
-## 🌐 Connect With Me
-
-[LinkedIn](https://linkedin.com/in/muhammadsohaibasif) • [Instagram](https://instagram.com/codebysohaib) • [X](https://x.com/codebysohaib) • [YouTube](https://youtube.com/@codebysohaib) • [TikTok](https://tiktok.com/@codebysohaib)
-
-## 💻 Tech Stack
-
-### Frontend
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge\&logo=javascript\&logoColor=F7DF1E)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-
-### Backend & Tools
-
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge\&logo=vercel\&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge\&logo=netlify\&logoColor=white)
-
-## 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=codebysohaib\&theme=github_dark\&hide_border=true\&show_icons=true)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=codebysohaib\&theme=github-dark-blue\&hide_border=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=codebysohaib\&theme=github_dark\&hide_border=true\&layout=compact)
+<p align="center">
+<a href="https://codebysohaib.dev">Portfolio</a> |
+<a href="https://github.com/codebysohaib">GitHub</a> |
+<a href="https://linkedin.com/in/muhammadsohaibasif">LinkedIn</a> |
+<a href="mailto:codebysohaib@gmail.com">Email</a>
+</p>
 
 ---
 
-### 🚀 Current Focus
+## About Me
 
-* Learning React Ecosystem
-* Building Frontend Projects
-* Improving UI/UX Skills
-* Exploring Full Stack Development
+I'm a Frontend Developer passionate about building responsive, accessible, and high performance web applications.
 
-### 📫 Reach Me
+Currently pursuing a Bachelor of Science in Computer Science while working as a freelance frontend developer. I enjoy transforming ideas into clean, modern user interfaces and continuously improving my skills through real world projects.
 
-**Email:** [codebysohaib@gmail.com](mailto:codebysohaib@gmail.com)
+**Current Focus**
+
+- React.js
+- Modern JavaScript (ES6+)
+- Tailwind CSS
+- Frontend Performance
+- Full Stack Development
+
+---
+
+## Technical Skills
+
+### Languages
+
+HTML5 • CSS3 • JavaScript • PHP
+
+### Frameworks & Libraries
+
+React.js • Tailwind CSS • Bootstrap
+
+### Databases
+
+MySQL
+
+### Tools
+
+Git • GitHub • VS Code • Chrome DevTools • Vercel • Netlify
+
+---
+
+## Experience
+
+### Freelance Frontend Developer
+**October 2025 – Present**
+
+Develop responsive websites, landing pages, and business websites for freelance clients. Improve website performance, maintain existing codebases, and build clean, mobile friendly interfaces.
+
+---
+
+## Featured Projects
+
+### CBS Docs
+
+Educational platform providing simplified tutorials and documentation for HTML, CSS, JavaScript, MySQL, and Computer Science students.
+
+**Website**
+https://codebysohaib.dev
+
+---
+
+### AL Mohid Kitchen Hub
+
+A modern eCommerce website featuring product categories, shopping cart, and checkout functionality.
+
+---
+
+### UON CGPA Calculator
+
+A GPA and CGPA calculator designed specifically for University of Narowal students.
+
+---
+
+## GitHub Statistics
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=codebysohaib&show_icons=true&hide_border=true&theme=github_dark" height="170"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codebysohaib&layout=compact&hide_border=true&theme=github_dark" height="170"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=codebysohaib&hide_border=true&theme=github-dark-blue"/>
+</p>
+
+---
+
+## Certifications
+
+- Introduction to HTML (Coursera)
+- AI for Writing and Communicating (Coursera)
+- Computer Basics (Al-Riphah International College)
+
+---
+
+## Connect
+
+- Portfolio: https://codebysohaib.dev
+- GitHub: https://github.com/codebysohaib
+- LinkedIn: https://linkedin.com/in/muhammadsohaibasif
+- Email: codebysohaib@gmail.com
+- Instagram: https://instagram.com/codebysohaib
+- X: https://x.com/codebysohaib
+
+---
+
+> "Building modern web experiences through clean code and thoughtful design."
